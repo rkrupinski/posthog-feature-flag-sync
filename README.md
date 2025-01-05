@@ -1,6 +1,6 @@
 # PostHog Feature Flag Sync
 
-Blob post: https://rkrupinski.com/post/feature-flags-done-right
+Blog post: https://rkrupinski.com/post/feature-flags-done-right
 
 Getting started:
 
